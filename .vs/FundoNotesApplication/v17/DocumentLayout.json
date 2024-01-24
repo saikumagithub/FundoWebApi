@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91934\\source\\repos\\FundoNotesApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A72EEC7B-0808-40C3-AE41-D45EA9610761}|FundoBusinessLayer\\FundoBusinessLayer.csproj|c:\\users\\91934\\source\\repos\\fundonotesapplication\\fundobusinesslayer\\service\\notesbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72EEC7B-0808-40C3-AE41-D45EA9610761}|FundoBusinessLayer\\FundoBusinessLayer.csproj|solutionrelative:fundobusinesslayer\\service\\notesbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442EF80B-19A3-4815-9263-3EC9C75240BD}|FundoRepositoryLayer\\FundoRepositoryLayer.csproj|c:\\users\\91934\\source\\repos\\fundonotesapplication\\fundorepositorylayer\\interface\\inotesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442EF80B-19A3-4815-9263-3EC9C75240BD}|FundoRepositoryLayer\\FundoRepositoryLayer.csproj|solutionrelative:fundorepositorylayer\\interface\\inotesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A72EEC7B-0808-40C3-AE41-D45EA9610761}|FundoBusinessLayer\\FundoBusinessLayer.csproj|c:\\users\\91934\\source\\repos\\fundonotesapplication\\fundobusinesslayer\\interface\\inotesbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A72EEC7B-0808-40C3-AE41-D45EA9610761}|FundoBusinessLayer\\FundoBusinessLayer.csproj|solutionrelative:fundobusinesslayer\\interface\\inotesbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851E0B64-AF87-4F25-8339-708182CAF774}|ModelLayer\\ModelLayer.csproj|c:\\users\\91934\\source\\repos\\fundonotesapplication\\modellayer\\models\\notesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851E0B64-AF87-4F25-8339-708182CAF774}|ModelLayer\\ModelLayer.csproj|solutionrelative:modellayer\\models\\notesmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{442EF80B-19A3-4815-9263-3EC9C75240BD}|FundoRepositoryLayer\\FundoRepositoryLayer.csproj|c:\\users\\91934\\source\\repos\\fundonotesapplication\\fundorepositorylayer\\service\\notesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{442EF80B-19A3-4815-9263-3EC9C75240BD}|FundoRepositoryLayer\\FundoRepositoryLayer.csproj|solutionrelative:fundorepositorylayer\\service\\notesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A4413F-1513-4E38-A542-4E56E9711300}|FundoNotesApplicationPresentationLayer\\FundoNotesApplicationPresentationLayer.csproj|c:\\users\\91934\\source\\repos\\fundonotesapplication\\fundonotesapplicationpresentationlayer\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A4413F-1513-4E38-A542-4E56E9711300}|FundoNotesApplicationPresentationLayer\\FundoNotesApplicationPresentationLayer.csproj|solutionrelative:fundonotesapplicationpresentationlayer\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02A4413F-1513-4E38-A542-4E56E9711300}|FundoNotesApplicationPresentationLayer\\FundoNotesApplicationPresentationLayer.csproj|c:\\users\\91934\\source\\repos\\fundonotesapplication\\fundonotesapplicationpresentationlayer\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02A4413F-1513-4E38-A542-4E56E9711300}|FundoNotesApplicationPresentationLayer\\FundoNotesApplicationPresentationLayer.csproj|solutionrelative:fundonotesapplicationpresentationlayer\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\91934\\source\\repos\\FundoNotesApplication\\FundoNotesApplicationPresentationLayer\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "FundoNotesApplicationPresentationLayer\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\91934\\source\\repos\\FundoNotesApplication\\FundoNotesApplicationPresentationLayer\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "FundoNotesApplicationPresentationLayer\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-20T10:51:06.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INotesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\91934\\source\\repos\\FundoNotesApplication\\FundoRepositoryLayer\\Interface\\INotesRepo.cs",
+              "RelativeDocumentMoniker": "FundoRepositoryLayer\\Interface\\INotesRepo.cs",
+              "ToolTip": "C:\\Users\\91934\\source\\repos\\FundoNotesApplication\\FundoRepositoryLayer\\Interface\\INotesRepo.cs",
+              "RelativeToolTip": "FundoRepositoryLayer\\Interface\\INotesRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-19T05:31:14.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "INotesBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\91934\\source\\repos\\FundoNotesApplication\\FundoBusinessLayer\\Interface\\INotesBusiness.cs",
+              "RelativeDocumentMoniker": "FundoBusinessLayer\\Interface\\INotesBusiness.cs",
+              "ToolTip": "C:\\Users\\91934\\source\\repos\\FundoNotesApplication\\FundoBusinessLayer\\Interface\\INotesBusiness.cs",
+              "RelativeToolTip": "FundoBusinessLayer\\Interface\\INotesBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-19T05:27:23.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\91934\\source\\repos\\FundoNotesApplication\\FundoBusinessLayer\\Service\\NotesBusiness.cs",
+              "RelativeDocumentMoniker": "FundoBusinessLayer\\Service\\NotesBusiness.cs",
+              "ToolTip": "C:\\Users\\91934\\source\\repos\\FundoNotesApplication\\FundoBusinessLayer\\Service\\NotesBusiness.cs",
+              "RelativeToolTip": "FundoBusinessLayer\\Service\\NotesBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-19T05:27:15.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NotesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\91934\\source\\repos\\FundoNotesApplication\\FundoRepositoryLayer\\Service\\NotesRepo.cs",
+              "RelativeDocumentMoniker": "FundoRepositoryLayer\\Service\\NotesRepo.cs",
+              "ToolTip": "C:\\Users\\91934\\source\\repos\\FundoNotesApplication\\FundoRepositoryLayer\\Service\\NotesRepo.cs",
+              "RelativeToolTip": "FundoRepositoryLayer\\Service\\NotesRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T09:16:51.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\91934\\source\\repos\\FundoNotesApplication\\FundoNotesApplicationPresentationLayer\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "FundoNotesApplicationPresentationLayer\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\91934\\source\\repos\\FundoNotesApplication\\FundoNotesApplicationPresentationLayer\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "FundoNotesApplicationPresentationLayer\\Controllers\\NotesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T05:41:33.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotesModel.cs",
+              "DocumentMoniker": "C:\\Users\\91934\\source\\repos\\FundoNotesApplication\\ModelLayer\\Models\\NotesModel.cs",
+              "RelativeDocumentMoniker": "ModelLayer\\Models\\NotesModel.cs",
+              "ToolTip": "C:\\Users\\91934\\source\\repos\\FundoNotesApplication\\ModelLayer\\Models\\NotesModel.cs",
+              "RelativeToolTip": "ModelLayer\\Models\\NotesModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-18T02:05:58.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

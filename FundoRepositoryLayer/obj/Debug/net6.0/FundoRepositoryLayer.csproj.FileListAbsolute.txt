@@ -1,0 +1,17 @@
+C:\Users\91934\source\repos\FundoNotesApplication\FundoRepositoryLayer\bin\Debug\net6.0\FundoRepositoryLayer.deps.json
+C:\Users\91934\source\repos\FundoNotesApplication\FundoRepositoryLayer\bin\Debug\net6.0\FundoRepositoryLayer.runtimeconfig.json
+C:\Users\91934\source\repos\FundoNotesApplication\FundoRepositoryLayer\bin\Debug\net6.0\FundoRepositoryLayer.dll
+C:\Users\91934\source\repos\FundoNotesApplication\FundoRepositoryLayer\bin\Debug\net6.0\FundoRepositoryLayer.pdb
+C:\Users\91934\source\repos\FundoNotesApplication\FundoRepositoryLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\91934\source\repos\FundoNotesApplication\FundoRepositoryLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\91934\source\repos\FundoNotesApplication\FundoRepositoryLayer\obj\Debug\net6.0\FundoRepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\91934\source\repos\FundoNotesApplication\FundoRepositoryLayer\obj\Debug\net6.0\FundoRepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91934\source\repos\FundoNotesApplication\FundoRepositoryLayer\obj\Debug\net6.0\FundoRepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\91934\source\repos\FundoNotesApplication\FundoRepositoryLayer\obj\Debug\net6.0\FundoRepositoryLayer.AssemblyInfo.cs
+C:\Users\91934\source\repos\FundoNotesApplication\FundoRepositoryLayer\obj\Debug\net6.0\FundoRepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\91934\source\repos\FundoNotesApplication\FundoRepositoryLayer\obj\Debug\net6.0\FundoRepositoryLayer.csproj.CopyComplete
+C:\Users\91934\source\repos\FundoNotesApplication\FundoRepositoryLayer\obj\Debug\net6.0\FundoRepositoryLayer.dll
+C:\Users\91934\source\repos\FundoNotesApplication\FundoRepositoryLayer\obj\Debug\net6.0\refint\FundoRepositoryLayer.dll
+C:\Users\91934\source\repos\FundoNotesApplication\FundoRepositoryLayer\obj\Debug\net6.0\FundoRepositoryLayer.pdb
+C:\Users\91934\source\repos\FundoNotesApplication\FundoRepositoryLayer\obj\Debug\net6.0\FundoRepositoryLayer.genruntimeconfig.cache
+C:\Users\91934\source\repos\FundoNotesApplication\FundoRepositoryLayer\obj\Debug\net6.0\ref\FundoRepositoryLayer.dll

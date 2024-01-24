@@ -1,0 +1,17 @@
+C:\Users\91934\source\repos\FundoNotesApplication\FundoBusinessLayer\bin\Debug\net6.0\FundoBusinessLayer.deps.json
+C:\Users\91934\source\repos\FundoNotesApplication\FundoBusinessLayer\bin\Debug\net6.0\FundoBusinessLayer.dll
+C:\Users\91934\source\repos\FundoNotesApplication\FundoBusinessLayer\bin\Debug\net6.0\FundoBusinessLayer.pdb
+C:\Users\91934\source\repos\FundoNotesApplication\FundoBusinessLayer\bin\Debug\net6.0\FundoRepositoryLayer.dll
+C:\Users\91934\source\repos\FundoNotesApplication\FundoBusinessLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\91934\source\repos\FundoNotesApplication\FundoBusinessLayer\bin\Debug\net6.0\FundoRepositoryLayer.pdb
+C:\Users\91934\source\repos\FundoNotesApplication\FundoBusinessLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\91934\source\repos\FundoNotesApplication\FundoBusinessLayer\obj\Debug\net6.0\FundoBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\91934\source\repos\FundoNotesApplication\FundoBusinessLayer\obj\Debug\net6.0\FundoBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91934\source\repos\FundoNotesApplication\FundoBusinessLayer\obj\Debug\net6.0\FundoBusinessLayer.AssemblyInfoInputs.cache
+C:\Users\91934\source\repos\FundoNotesApplication\FundoBusinessLayer\obj\Debug\net6.0\FundoBusinessLayer.AssemblyInfo.cs
+C:\Users\91934\source\repos\FundoNotesApplication\FundoBusinessLayer\obj\Debug\net6.0\FundoBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\91934\source\repos\FundoNotesApplication\FundoBusinessLayer\obj\Debug\net6.0\FundoBusinessLayer.csproj.CopyComplete
+C:\Users\91934\source\repos\FundoNotesApplication\FundoBusinessLayer\obj\Debug\net6.0\FundoBusinessLayer.dll
+C:\Users\91934\source\repos\FundoNotesApplication\FundoBusinessLayer\obj\Debug\net6.0\refint\FundoBusinessLayer.dll
+C:\Users\91934\source\repos\FundoNotesApplication\FundoBusinessLayer\obj\Debug\net6.0\FundoBusinessLayer.pdb
+C:\Users\91934\source\repos\FundoNotesApplication\FundoBusinessLayer\obj\Debug\net6.0\ref\FundoBusinessLayer.dll
